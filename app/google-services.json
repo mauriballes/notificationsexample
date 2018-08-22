@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "747034301468",
+    "firebase_url": "https://university-project-firebase.firebaseio.com",
+    "project_id": "university-project-firebase",
+    "storage_bucket": "university-project-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747034301468:android:4e154f4c34ef1bde",
+        "android_client_info": {
+          "package_name": "bo.com.bpdarlyn.notificationmessages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747034301468-d6sg4s05t79lqg4tr2dod3ignqib4hna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzmzlY1ZYiJ5G0ENhLdPBsYjLowU2nv8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

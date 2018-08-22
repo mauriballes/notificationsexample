@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Messages</string>
+    <string name="title">Title Messages</string>
+    <string name="body">Body Messages</string>
+</resources>
